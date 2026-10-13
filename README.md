@@ -9,13 +9,13 @@ You don't install anything on the tablet.
 ## Install
 
 ```sh
-brew install --cask itssarthak/tap/sparescreen
+brew install --cask chaibreak/tap/sparescreen
 ```
 
 Then start it with `open -a SpareScreen`. Free for 7 days; a one-time license is on [getsparescreen.com](https://getsparescreen.com).
 
 Or download it from [getsparescreen.com](https://getsparescreen.com) (or `SpareScreen-<version>.zip` from
-[Releases](https://github.com/itssarthak/sparescreen/releases)) and move **SpareScreen.app** to your Applications folder.
+[Releases](https://github.com/chaibreak/sparescreen/releases)) and move **SpareScreen.app** to your Applications folder.
 
 ### First launch: "Open Anyway" (download only)
 
