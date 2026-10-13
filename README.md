@@ -12,7 +12,7 @@ You don't install anything on the tablet.
 brew tap chaibreak/tap; brew trust --tap chaibreak/tap; brew install --cask sparescreen
 ```
 
-Then start it with `open -a SpareScreen`. Free for 7 days; a one-time license is on [getsparescreen.com](https://getsparescreen.com).
+SpareScreen opens by itself in the menu bar. Free for 7 days; a one-time license is on [getsparescreen.com](https://getsparescreen.com).
 
 Or download it from [getsparescreen.com](https://getsparescreen.com) (or `SpareScreen-<version>.zip` from
 [Releases](https://github.com/chaibreak/sparescreen/releases)) and move **SpareScreen.app** to your Applications folder.
