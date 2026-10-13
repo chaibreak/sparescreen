@@ -9,7 +9,7 @@ You don't install anything on the tablet.
 ## Install
 
 ```sh
-brew tap chaibreak/tap && brew install --cask sparescreen
+brew tap chaibreak/tap; brew trust --tap chaibreak/tap; brew install --cask sparescreen
 ```
 
 Then start it with `open -a SpareScreen`. Free for 7 days; a one-time license is on [getsparescreen.com](https://getsparescreen.com).
