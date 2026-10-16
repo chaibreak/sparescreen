@@ -60,8 +60,8 @@ isn't reachable, sharing is paused, the tablet needs approval, or permission is 
 - **Use it on Wi-Fi you trust.** The picture travels unencrypted over your local network. The link contains a
   secret key and new tablets have to be allowed on the Mac, but someone on the same network with the right tools
   could still watch the traffic.
-- **After each update, allow Screen Recording again.** SpareScreen isn't Apple-signed, so macOS treats each new
-  version as a new app. Remove the old SpareScreen entry under Screen & System Audio Recording, then allow the new one.
+- **Screen Recording carries over to updates** from version 1.0.5. Updating from an older version needs it allowed
+  once more: remove the old SpareScreen entry under Screen & System Audio Recording, then allow the new one.
 - **No touch input.** The tablet shows the screen. You control it with the Mac's mouse and keyboard.
 - **Video and fast scrolling are the heaviest.** Cursor moves and typing send only the part of the screen that
   changed, so they're light.
