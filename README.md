@@ -14,8 +14,8 @@ brew tap chaibreak/tap; brew trust --tap chaibreak/tap; brew install --cask spar
 
 SpareScreen then opens in the menu bar. Free for 7 days; a one-time license is on [getsparescreen.com](https://getsparescreen.com).
 
-Or download it from [getsparescreen.com](https://getsparescreen.com) (or `SpareScreen-<version>.zip` from
-[Releases](https://github.com/chaibreak/sparescreen/releases)) and move **SpareScreen.app** to your Applications folder.
+Or download `SpareScreen-<version>.zip` from [Releases](https://github.com/chaibreak/sparescreen/releases) and move
+**SpareScreen.app** to your Applications folder.
 
 ### First launch: "Open Anyway" (download only)
 
